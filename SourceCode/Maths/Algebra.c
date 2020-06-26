@@ -1,0 +1,6 @@
+void leqn()
+{}
+void qeqn()
+{
+
+}
