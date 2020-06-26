@@ -1,6 +1,3 @@
-void leqn()
+void landqeqn()
 {}
-void qeqn()
-{
-
-}
+>>>>>>> Testing
